@@ -1,4 +1,4 @@
-/* Caio Nery Matos Santos - Flex */
+/* Caio Nery Matos Santos - Flex - T2 */
 
 %option noyywrap nodefault yylineno
 %{ 

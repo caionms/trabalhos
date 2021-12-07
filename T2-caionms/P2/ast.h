@@ -1,4 +1,4 @@
-/* Caio Nery Matos Santos */
+/* Caio Nery Matos Santos - T2 */
 
 #include <string.h>
 

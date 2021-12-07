@@ -510,7 +510,7 @@ int yy_flex_debug = 0;
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
 #line 1 "c-v1.1.l"
-/* Caio Nery Matos Santos - Flex */
+/* Caio Nery Matos Santos - Flex - T2 */
 #line 5 "c-v1.1.l"
 #include "c-v1.1.tab.h"
 #line 517 "lex.yy.c"
