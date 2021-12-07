@@ -1,4 +1,4 @@
-// Caio Nery Matos Santos - Bison
+/* Caio Nery Matos Santos - Bison */
 
 %{
 #include <stdlib.h>
